@@ -1,0 +1,10 @@
+<span class="hljs-attr">instant</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2026-09-19T14:00:00Z</span>
+<span class="hljs-attr">fraction</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2026-09-19T14:00:00.123456789Z</span>
+<span class="hljs-attr">offset</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2026-09-19T14:00:00+05:30</span>
+<span class="hljs-attr">negative-offset</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2026-09-19T14:00:00-08:00</span>
+<span class="hljs-attr">timeout</span><span class="hljs-punctuation">:</span> <span class="hljs-number">30s</span>
+<span class="hljs-attr">combined</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1h30m</span>
+<span class="hljs-attr">sub-second</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1.5s</span>
+<span class="hljs-attr">negative</span><span class="hljs-punctuation">:</span> <span class="hljs-number">-5m</span>
+<span class="hljs-attr">micro</span><span class="hljs-punctuation">:</span> <span class="hljs-number">250us</span>
+<span class="hljs-attr">list</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-number">30s</span><span class="hljs-punctuation">,</span> <span class="hljs-number">2026-09-19T14:00:00Z</span><span class="hljs-punctuation">,</span> <span class="hljs-number">500ms</span><span class="hljs-punctuation">]</span>

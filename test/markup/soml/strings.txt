@@ -1,0 +1,4 @@
+literal: 'C:\no\escapes here'
+regex: '^\d{4}-\d{2}-\d{2}$'
+empty: ''
+escaped: "line one\nline two\t\"quoted\" don't \u{1f600}"

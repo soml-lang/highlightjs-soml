@@ -1,0 +1,4 @@
+<span class="hljs-attr">&#x27;&lt;key&gt;&amp;&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;&lt;script&gt;alert(&quot;x&quot;)&lt;/script&gt;&#x27;</span>
+<span class="hljs-attr">escaped</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&lt;tag attr=\&quot;value\&quot;&gt;&amp;&lt;/tag&gt;&quot;</span>
+<span class="hljs-comment"># &lt;script&gt;&amp; &#x27; &quot;</span>
+<span class="hljs-comment">/* &lt;script&gt;&amp; &#x27; &quot; */</span>

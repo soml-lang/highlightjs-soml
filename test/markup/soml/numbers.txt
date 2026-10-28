@@ -1,0 +1,12 @@
+int: 3
+negative: -30
+big: 9223372036854775807
+separated: 1_000_000
+hex: 0xFF8800
+octal: 0o644
+binary: 0b1010_1100
+float: 0.75
+exponent: 2.5e20
+tiny: 5e-324
+infinity: infinity
+negative-infinity: -infinity

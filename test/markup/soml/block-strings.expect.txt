@@ -1,0 +1,29 @@
+<span class="hljs-attr">literal</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	A literal block keeps \n and &quot;quotes&quot; as they are.
+	It runs to the line with the closing delimiter.
+
+	Blank lines above are dropped.
+	&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">escaped</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&quot;&quot;&quot;
+	An escaped block has \t escapes and &quot;quotes&quot;.
+	&quot;&quot;&quot;</span>
+<span class="hljs-attr">inline</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span><span class="hljs-attr">block</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;&#x27;&#x27;
+	in an object
+	&#x27;&#x27;&#x27;</span><span class="hljs-punctuation">}</span>
+<span class="hljs-attr">midline</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	A &#x27;&#x27;&#x27; run mid-line stays content.
+	&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">longer-run</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">empty</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">escaped-longer-run</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&quot;&quot;&quot;
+	&quot;&quot;&quot;&quot;
+	&quot;&quot;&quot;</span>

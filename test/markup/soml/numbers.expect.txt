@@ -1,0 +1,12 @@
+<span class="hljs-attr">int</span><span class="hljs-punctuation">:</span> <span class="hljs-number">3</span>
+<span class="hljs-attr">negative</span><span class="hljs-punctuation">:</span> <span class="hljs-number">-30</span>
+<span class="hljs-attr">big</span><span class="hljs-punctuation">:</span> <span class="hljs-number">9223372036854775807</span>
+<span class="hljs-attr">separated</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1_000_000</span>
+<span class="hljs-attr">hex</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0xFF8800</span>
+<span class="hljs-attr">octal</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0o644</span>
+<span class="hljs-attr">binary</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0b1010_1100</span>
+<span class="hljs-attr">float</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0.75</span>
+<span class="hljs-attr">exponent</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2.5e20</span>
+<span class="hljs-attr">tiny</span><span class="hljs-punctuation">:</span> <span class="hljs-number">5e-324</span>
+<span class="hljs-attr">infinity</span><span class="hljs-punctuation">:</span> <span class="hljs-number">infinity</span>
+<span class="hljs-attr">negative-infinity</span><span class="hljs-punctuation">:</span> <span class="hljs-number">-infinity</span>

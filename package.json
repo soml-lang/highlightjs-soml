@@ -1,0 +1,44 @@
+{
+	"name": "highlightjs-soml",
+	"version": "0.0.2",
+	"description": "SOML grammar for highlight.js",
+	"license": "MIT",
+	"repository": "soml-lang/highlightjs-soml",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": "Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)",
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"sideEffects": false,
+	"engines": {
+		"node": ">=22"
+	},
+	"scripts": {
+		"test": "xo && node --test && nz"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"highlight.js",
+		"highlightjs",
+		"soml",
+		"syntax",
+		"grammar",
+		"highlighting",
+		"config",
+		"format"
+	],
+	"devDependencies": {
+		"highlight.js": "^11.12.0",
+		"nz": "^0.1.1",
+		"typescript": "^6.0.3",
+		"xo": "^5.0.1"
+	},
+	"peerDependencies": {
+		"highlight.js": ">=11.12.0"
+	}
+}

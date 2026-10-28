@@ -1,0 +1,13 @@
+<span class="hljs-attr">name</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;api-gateway&#x27;</span>
+<span class="hljs-attr">port</span><span class="hljs-punctuation">:</span> <span class="hljs-number">8080</span> <span class="hljs-comment"># The load balancer expects this port.</span>
+<span class="hljs-attr">timeout</span><span class="hljs-punctuation">:</span> <span class="hljs-number">30s</span>
+<span class="hljs-attr">windows-path</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;C:\Users\sindre\dev&#x27;</span>
+<span class="hljs-attr">description</span><span class="hljs-punctuation">:</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	Terminates TLS.
+	Routes requests to internal services.
+	&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">allowed-origins</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+	<span class="hljs-string">&#x27;https://example.com&#x27;</span>
+	<span class="hljs-string">&#x27;https://example.org&#x27;</span>
+<span class="hljs-punctuation">]</span>

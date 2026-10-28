@@ -1,0 +1,29 @@
+literal:
+	'''
+	A literal block keeps \n and "quotes" as they are.
+	It runs to the line with the closing delimiter.
+
+	Blank lines above are dropped.
+	'''
+escaped:
+	"""
+	An escaped block has \t escapes and "quotes".
+	"""
+inline: {block: '''
+	in an object
+	'''}
+midline:
+	'''
+	A ''' run mid-line stays content.
+	'''
+longer-run:
+	'''
+	''''
+	'''
+empty:
+	'''
+	'''
+escaped-longer-run:
+	"""
+	""""
+	"""

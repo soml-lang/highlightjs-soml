@@ -1,0 +1,13 @@
+bare: 1
+dash-key: 2
+under_score: 3
+404: 'a key may begin with a digit'
+-foo: 'a key may begin with a dash'
+2024-01-01: 'a date-shaped key'
+30s: 'a duration-shaped key'
+'the name': 'a quoted key'
+"esc\tkey": 'an escaped key'
+true: 1
+null: 2
+'a.b': 3
+'a:b': 'a quoted key may hold a colon'

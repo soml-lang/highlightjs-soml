@@ -1,0 +1,8 @@
+# A comment on its own line.
+key: 'value' # A comment at the end of a line.
+/*
+A block comment
+spanning lines.
+*/
+after: 1 # Another one.
+# Comment with a quote and a backslash: 'not a string' "neither" C:\

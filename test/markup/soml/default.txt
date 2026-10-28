@@ -1,0 +1,13 @@
+name: 'api-gateway'
+port: 8080 # The load balancer expects this port.
+timeout: 30s
+windows-path: 'C:\Users\sindre\dev'
+description:
+	'''
+	Terminates TLS.
+	Routes requests to internal services.
+	'''
+allowed-origins: [
+	'https://example.com'
+	'https://example.org'
+]

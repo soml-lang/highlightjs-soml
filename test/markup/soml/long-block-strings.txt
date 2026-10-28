@@ -1,0 +1,13 @@
+literal: ''''
+	'''
+	'''''
+	''''
+escaped: """"
+	"""
+	"""""
+	A \"quote\" and \n stay inside.
+	""""
+empty: ['''''
+''''', '''
+''']
+after: true

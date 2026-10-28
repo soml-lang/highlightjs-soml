@@ -1,0 +1,13 @@
+<span class="hljs-attr">literal</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;&#x27;&#x27;
+	&#x27;&#x27;&#x27;&#x27;</span>
+<span class="hljs-attr">escaped</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;&quot;&quot;
+	&quot;&quot;&quot;
+	&quot;&quot;&quot;&quot;&quot;
+	A \&quot;quote\&quot; and \n stay inside.
+	&quot;&quot;&quot;&quot;</span>
+<span class="hljs-attr">empty</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-string">&#x27;&#x27;&#x27;&#x27;&#x27;
+&#x27;&#x27;&#x27;&#x27;&#x27;</span><span class="hljs-punctuation">,</span> <span class="hljs-string">&#x27;&#x27;&#x27;
+&#x27;&#x27;&#x27;</span><span class="hljs-punctuation">]</span>
+<span class="hljs-attr">after</span><span class="hljs-punctuation">:</span> <span class="hljs-literal">true</span>

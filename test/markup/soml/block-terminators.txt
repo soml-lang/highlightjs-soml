@@ -1,0 +1,10 @@
+items: [
+	'''
+	# not a comment
+	"inside": {value: true}
+	'''# a comment
+	"""
+	escaped \"quote\"
+	'''
+	"""/* block */
+]

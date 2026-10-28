@@ -1,0 +1,6 @@
+<span class="hljs-attr">before</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span><span class="hljs-comment">/**/</span><span class="hljs-comment"># &#x27;quoted&#x27;: true</span>
+<span class="hljs-attr">after</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2</span>
+<span class="hljs-comment">/* &quot;quoted&quot;: [1, true] */</span><span class="hljs-attr">real</span><span class="hljs-punctuation">:</span> <span class="hljs-literal">false</span>
+<span class="hljs-attr">empty</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-comment">/**/</span><span class="hljs-punctuation">]</span>
+<span class="hljs-attr">overlap</span><span class="hljs-punctuation">:</span> <span class="hljs-number">3</span><span class="hljs-comment">/* x /*/</span>
+<span class="hljs-attr">after-overlap</span><span class="hljs-punctuation">:</span> <span class="hljs-literal">null</span>

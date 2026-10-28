@@ -1,0 +1,8 @@
+<span class="hljs-comment"># A comment on its own line.</span>
+<span class="hljs-attr">key</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;value&#x27;</span> <span class="hljs-comment"># A comment at the end of a line.</span>
+<span class="hljs-comment">/*
+A block comment
+spanning lines.
+*/</span>
+<span class="hljs-attr">after</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span> <span class="hljs-comment"># Another one.</span>
+<span class="hljs-comment"># Comment with a quote and a backslash: &#x27;not a string&#x27; &quot;neither&quot; C:\</span>

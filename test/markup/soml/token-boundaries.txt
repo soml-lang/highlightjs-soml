@@ -1,0 +1,6 @@
+numbers:[0,-0.5,1e-2,0xFF,1h30m]
+literals:[true,false,null]
+adjacent:1/* comment */
+negative:-2# comment
+true-false:true
+invalid:[1.2.3,+1,1e+5,1.5sx,true-false,-true,null.value]

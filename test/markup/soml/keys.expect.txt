@@ -1,0 +1,13 @@
+<span class="hljs-attr">bare</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span>
+<span class="hljs-attr">dash-key</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2</span>
+<span class="hljs-attr">under_score</span><span class="hljs-punctuation">:</span> <span class="hljs-number">3</span>
+<span class="hljs-attr">404</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a key may begin with a digit&#x27;</span>
+<span class="hljs-attr">-foo</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a key may begin with a dash&#x27;</span>
+<span class="hljs-attr">2024-01-01</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a date-shaped key&#x27;</span>
+<span class="hljs-attr">30s</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a duration-shaped key&#x27;</span>
+<span class="hljs-attr">&#x27;the name&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a quoted key&#x27;</span>
+<span class="hljs-attr">&quot;esc\tkey&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;an escaped key&#x27;</span>
+<span class="hljs-attr">true</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span>
+<span class="hljs-attr">null</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2</span>
+<span class="hljs-attr">&#x27;a.b&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">3</span>
+<span class="hljs-attr">&#x27;a:b&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;a quoted key may hold a colon&#x27;</span>

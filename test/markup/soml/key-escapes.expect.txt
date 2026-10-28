@@ -1,0 +1,9 @@
+<span class="hljs-attr">&#x27;&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0</span>
+<span class="hljs-attr">&quot;&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span>
+<span class="hljs-attr">-</span><span class="hljs-punctuation">:</span> <span class="hljs-number">2</span>
+<span class="hljs-attr">__proto__</span><span class="hljs-punctuation">:</span> <span class="hljs-literal">true</span>
+<span class="hljs-attr">constructor</span><span class="hljs-punctuation">:</span> <span class="hljs-literal">false</span>
+<span class="hljs-attr">&#x27;trailing\&#x27;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;literal\&#x27;</span>
+<span class="hljs-attr">&quot;quote\&quot;key&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;quote\&quot;value&quot;</span>
+<span class="hljs-attr">&quot;backslash\\&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;backslash\\&quot;</span>
+<span class="hljs-attr">&quot;\u{1f600}&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;\u{1f600}&#x27;</span>

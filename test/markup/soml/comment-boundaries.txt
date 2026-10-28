@@ -1,0 +1,6 @@
+before: 1/**/# 'quoted': true
+after: 2
+/* "quoted": [1, true] */real: false
+empty: [/**/]
+overlap: 3/* x /*/
+after-overlap: null

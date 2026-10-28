@@ -1,0 +1,4 @@
+<span class="hljs-attr">literal</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;C:\no\escapes here&#x27;</span>
+<span class="hljs-attr">regex</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;^\d{4}-\d{2}-\d{2}$&#x27;</span>
+<span class="hljs-attr">empty</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&#x27;&#x27;</span>
+<span class="hljs-attr">escaped</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;line one\nline two\t\&quot;quoted\&quot; don&#x27;t \u{1f600}&quot;</span>

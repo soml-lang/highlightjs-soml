@@ -1,0 +1,4 @@
+'<key>&': '<script>alert("x")</script>'
+escaped: "<tag attr=\"value\">&</tag>"
+# <script>& ' "
+/* <script>& ' " */

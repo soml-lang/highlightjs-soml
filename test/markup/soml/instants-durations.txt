@@ -1,0 +1,10 @@
+instant: 2026-09-19T14:00:00Z
+fraction: 2026-09-19T14:00:00.123456789Z
+offset: 2026-09-19T14:00:00+05:30
+negative-offset: 2026-09-19T14:00:00-08:00
+timeout: 30s
+combined: 1h30m
+sub-second: 1.5s
+negative: -5m
+micro: 250us
+list: [30s, 2026-09-19T14:00:00Z, 500ms]

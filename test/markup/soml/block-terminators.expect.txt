@@ -1,0 +1,10 @@
+<span class="hljs-attr">items</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+	<span class="hljs-string">&#x27;&#x27;&#x27;
+	# not a comment
+	&quot;inside&quot;: {value: true}
+	&#x27;&#x27;&#x27;</span><span class="hljs-comment"># a comment</span>
+	<span class="hljs-string">&quot;&quot;&quot;
+	escaped \&quot;quote\&quot;
+	&#x27;&#x27;&#x27;
+	&quot;&quot;&quot;</span><span class="hljs-comment">/* block */</span>
+<span class="hljs-punctuation">]</span>

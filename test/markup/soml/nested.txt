@@ -1,0 +1,13 @@
+ports: [80, 443]
+matrix: [[1, 2], [3, 4]]
+mixed: [1, 'two', true, null]
+pool: {
+	min: 2
+	max: 16
+}
+maintainers: [
+	{name: 'Sindre Sorhus', email: 'sindresorhus@gmail.com'}
+	{name: 'Random Person', email: 'person@example.com'}
+]
+one-line-object: {a: 1, b: [2, 3]}
+keyword-values: [true, false, null]

@@ -1,0 +1,9 @@
+'': 0
+"": 1
+-: 2
+__proto__: true
+constructor: false
+'trailing\': 'literal\'
+"quote\"key": "quote\"value"
+"backslash\\": "backslash\\"
+"\u{1f600}": '\u{1f600}'
