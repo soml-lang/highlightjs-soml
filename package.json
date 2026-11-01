@@ -1,6 +1,6 @@
 {
 	"name": "highlightjs-soml",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "SOML grammar for highlight.js",
 	"license": "MIT",
 	"repository": "soml-lang/highlightjs-soml",
